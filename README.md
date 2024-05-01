@@ -1,7 +1,7 @@
-# Ploga App
+# Plog App
 
 ## Description
-Ploga App is a web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, share, and discover plogs (short for "personal blogs"). Users can sign up, log in, create their own plogs, view plogs created by others, and interact with them by liking and commenting. 
+Plog App is a web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, share, and discover plogs (short for "personal blogs"). Users can sign up, log in, create their own plogs, view plogs created by others, and interact with them by liking and commenting. 
 
 ## Features
 - User authentication: Users can sign up and log in securely to access the app.
