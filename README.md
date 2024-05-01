@@ -11,15 +11,15 @@ Ploga App is a web application developed using the MERN stack (MongoDB, Express.
 
 ## Installation
 1. Clone the repository: `git clone [https://github.com/LATIFAOUFEDDOUL/BlogAPP.git]`
-2. Navigate to the project directory: `cd BlogApp BackApp Back-end`
+2. Navigate to the project directory: `cd BlogApp BackApp BackEnd`
 3. Install dependencies for the server: `npm install`
 4. Navigate to the client directory: `cd REACT`
 5. Install dependencies for the client: `npm install`
 
 
 ## Usage
-1. Start the app.js: `node app.js ` (from the blogApp back-end directory  )
-2. Start the client : `npm start` (from the REACT directory)
+1. Start the app.js: `node app.js ` (from the blogApp BackEnd directory  )
+2. Start the client : `npm start` (from the FrontEnd directory)
 3. Open your browser and go to `http://localhost:3000` to access the app.
 
 

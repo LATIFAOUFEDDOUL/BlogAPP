@@ -1,0 +1,74 @@
+
+
+/* navbAR------------------------------------------------ */
+.Topbar{
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+    color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+
+}
+.topleft{
+    flex: 3;
+    
+}
+.logo1{
+    font-family: "Turret Road", sans-serif;
+    font-weight: bolder;
+    font-size: 26px;
+    display: inline-block;
+    padding-left: 10px;
+    cursor: pointer;
+
+
+}
+.logo2{
+    font-family: Dosis, sans-serif;
+    /* font-family: "Shadows Into Light", cursive; */
+    margin-right: 10px;
+    font-size: 20px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.topcenter{
+    flex: 6;
+   
+}
+.topList{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.topListItem{
+    font-family: "Open Sans", sans-serif;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+    
+}
+
+.topright{
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.profilImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
